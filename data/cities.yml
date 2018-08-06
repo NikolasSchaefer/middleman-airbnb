@@ -1,0 +1,12 @@
+- name: Berlin
+  address: "Rudi-Dutschke-Strasse 26, 10969 Berlin"
+  picture: "https://kitt.lewagon.com/placeholder/cities/berlin"
+- name: Paris
+  address: "16, villa Gaudelet 75011 Paris"
+  picture: "https://kitt.lewagon.com/placeholder/cities/paris"
+- name: Rio
+  address: ""
+  picture: "https://kitt.lewagon.com/placeholder/cities/rio"
+- name: Shanghai
+  address: ""
+  picture: "https://kitt.lewagon.com/placeholder/cities/shanghai"
